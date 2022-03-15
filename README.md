@@ -1,10 +1,10 @@
-### what is function
+### what is function?
 ***function*** is used to perform particuller task
 
-### what is variable
+### what is variable?
 ***variable*** is used to store the value.
 
-### diffrent between let var const
+### diffrent between let var const?
 ### scope
 ***let*** is blocked scope and ***var*** is globle scope.
 
