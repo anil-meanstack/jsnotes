@@ -19,3 +19,10 @@ scope of ***const*** same as ***let*** but we can not change the value.
 1. we dont need to add function keyword with arrow function.
 2. syntex is shorter then normal function.
 3. we use => to declare arrow function 
+
+
+
+
+Higher order functions...
+-->map , reduce, filter
+-->type script (class , types ,https://www.youtube.com/watch?v=gKZ5usVG47U)
