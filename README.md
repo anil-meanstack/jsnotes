@@ -22,7 +22,23 @@ scope of ***const*** same as ***let*** but we can not change the value.
 
 
 
-
+ ### HTML , CSS
 Higher order functions...
--->map , reduce, filter
+-->map , reduce, filter, forEach
 -->type script (class , types ,https://www.youtube.com/watch?v=gKZ5usVG47U)
+-->import , export
+---> local Storage
+---> jwt (only study)
+
+#### Angular --->
+ ### componet
+ ### forms (Reactive form , Template driven)
+ ### Services  
+ ### HttpClinent (get , post, delete, put)
+ ### Routing(Can active)
+ ### Lazy Loading
+ ### interpolation, two way binding, event binding
+ ### *ngIF , * ngFor
+ ### project 
+ 
+ 
