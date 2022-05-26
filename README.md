@@ -20,6 +20,24 @@ scope of ***const*** same as ***let*** but we can not change the value.
 2. syntex is shorter then normal function.
 3. we use => to declare arrow function 
 
+### For loop
+
+```
+const n = 5;
+
+for(let i = 0; i < n; i++) {
+    console.log(`anil`);
+}
+
+result=======>>>>>>>>
+
+"anil"
+"anil"
+"anil"
+"anil"
+"anil"
+
+```
 
 
  ### HTML , CSS
