@@ -60,16 +60,16 @@ Higher order functions...
  ### project 
  
  ### Array remove second last value and sum of array
- 
+ ```
  let num=[18,28,27,8]
 
 num.splice(-2,1)
 
 let abc=num.reduce((pre,curnt)=> pre+curnt)
 console.log(abc)
-
+```
 ### Object remove second last value and sum of object
-
+```
 let num = {
   "a": 18,
   "b": 28,
@@ -83,5 +83,5 @@ let abc = Object.values(num)
 let xyz = abc.reduce((pre, curnt) => pre + curnt)
 
 console.log(xyz)
-
+```
 
